@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section {
+    display: flex;
+    background-color: darkslategray;
+}
+article {
+    flex: 1;
+    margin: 2px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+/*uso de divs*/
+.contenedor {
+    background-color: dimgray;
+    
+}
+.linea {
+    display: flex;
+    margin: 10px;
+}
+.columna {
+    background-color: aquamarine;
+    flex: 1;
+    margin: 10px;
+}
+.columna-2 {
+    background-color: aquamarine;
+    flex: 2;
+    margin: 10px;
+}   
+.columna-3 {
+    background-color: aquamarine;
+    flex: 3;
+    margin: 10px;
+}
