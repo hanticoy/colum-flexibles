@@ -1,27 +1,27 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-section {
+article {
     background-color: rgb(93, 97, 97);
     display: flex;
     justify-content: space-around;
     margin: 1px;
     height: 100px;
 }
-article {
+section {
     background-color: aquamarine;
     border-color: black;
     margin: 10px;
     border: 5px;
     flex:1;
 }
-.article-2 {
+.section-2 {
     background-color: aquamarine;
     border-color: black;
     border: 5px;
     flex:2;
 }
-.article-3 {
+.section-3 {
     background-color: aquamarine;
     border-color: black;
     border: 5px;
