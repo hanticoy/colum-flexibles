@@ -10,6 +10,8 @@ section {
     background-color: aquamarine;
     margin: 5px;
     flex:1;
+    padding-top: 40px;
+    padding-left: 20px;
 }
 .section-2 {
     background-color: aquamarine;
