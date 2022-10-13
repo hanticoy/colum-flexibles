@@ -8,19 +8,16 @@ article {
 }
 section {
     background-color: aquamarine;
-    border-color: black;
     margin: 5px;
     flex:1;
 }
 .section-2 {
     background-color: aquamarine;
-    border-color: black;
     border: 5px;
     flex:2;
 }
 .section-3 {
     background-color: aquamarine;
-    border-color: black;
     border: 5px;
     flex:3;
 }
